@@ -7,6 +7,21 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=eroshla&show_icons=true&theme=github_dark&hide_border=true) &nbsp;[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eroshla&layout=compact&langs_count=5&theme=github_dark&hide_border=true)](https://github.com/eroshla/github-readme-stats)
 
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
+  />
+  <img
+    alt="github contribution grid snake animation"
+    src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
+  />
+</picture>
+
 <div style="display: inline_block"><br>
   <img align="center" alt="Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
   
