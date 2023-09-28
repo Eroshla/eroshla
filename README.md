@@ -1,8 +1,8 @@
-### Hi there, I'm Vinícius Laureano!
+### Hi there, I'm Eros Lunardon!
 
-- 🔭 I am working on website development.
-- 📚 I’m studying programming for full stack javascript development
+- 📚 I’m studying computer science
 
+- My interests: Robotics, Hardware, eletronics.
 ##
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=eroshla&show_icons=true&theme=github_dark&hide_border=true) &nbsp;[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eroshla&layout=compact&langs_count=5&theme=github_dark&hide_border=true)](https://github.com/eroshla/github-readme-stats)
